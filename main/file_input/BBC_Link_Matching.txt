@@ -1,0 +1,14 @@
+1	http://www.bbc.co.uk/news/world-asia-35741936
+3	http://www.bbc.co.uk/news/election-us-2016-35741360
+4	http://www.bbc.co.uk/news/world-middle-east-35739377
+5	http://www.bbc.co.uk/news/business-35741116
+6	http://www.bbc.co.uk/news/world-asia-china-35739046
+7	http://www.bbc.co.uk/news/world-middle-east-35739729
+9	http://www.bbc.co.uk/news/world-europe-35739547
+10	http://www.bbc.co.uk/news/world-asia-china-35741357
+11	http://www.bbc.co.uk/news/world-asia-35741241
+18	http://www.bbc.co.uk/news/magazine-35730298
+19	http://www.bbc.co.uk/news/magazine-35725220
+21	http://www.bbc.co.uk/news/world-asia-india-35705964
+22	http://www.bbc.co.uk/news/world-latin-america-35689461
+24	http://www.bbc.co.uk/news/business-35643909
