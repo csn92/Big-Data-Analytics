@@ -34,11 +34,11 @@ app.use(
 
     connection(mysql,{
 
-        host: 'ec2-52-27-180-192.us-west-2.compute.amazonaws.com',
-        user: 'root',
-        password : 'ProjectNova',
+        host: '',
+        user: '',
+        password : '',
         port : 3306, //port mysql
-        database:'ProjectNova'
+        database:''
     },'request')
 
 );
