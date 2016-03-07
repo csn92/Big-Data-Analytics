@@ -8,11 +8,11 @@ public class MySqlConnect {
 
 	   // JDBC driver name and database URL
 	   static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
-	   static final String DB_URL = "jdbc:mysql://ec2-52-27-180-192.us-west-2.compute.amazonaws.com:3306/ProjectNova";
+	   static final String DB_URL = "";
 
 	   //  Database credentials
-	   static final String USER = "root";
-	   static final String PASS = "ProjectNova";
+	   static final String USER = "";
+	   static final String PASS = "";
 	   
 	   public void connect_db(ArrayList<String> v, ArrayList<Integer> c) {
 			
